@@ -158,3 +158,5 @@ Further contributor reading:
 ## License
 
 MIT
+
+https://github.com/BankPansuwan/socket-cli/blob/main/docs%2Frepo%2Farchitecture.md
